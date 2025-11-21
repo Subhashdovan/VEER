@@ -1,0 +1,22 @@
+[
+  {
+    "domain": ".facebook.com",
+    "name": "c_user",
+    "path": "/",
+    "secure": true,
+    "value": "YOUR_USER_ID_NUMBER_HERE",
+    "expirationDate": 1899146560,
+    "httpOnly": false,
+    "sameSite": "Lax"
+  },
+  {
+    "domain": ".facebook.com",
+    "name": "xs",
+    "path": "/",
+    "secure": true,
+    "value": "YOUR_SESSION_STRING_HERE",
+    "expirationDate": 1899146560,
+    "httpOnly": true,
+    "sameSite": "Lax"
+  }
+]
